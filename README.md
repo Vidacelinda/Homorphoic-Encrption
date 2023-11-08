@@ -11,3 +11,5 @@ Partially homomorphic encryption uses either the addition or multiplication oper
  
 
 However, the computational overhead associated with HE has been a significant deterrent to its practical implementation. This is why innovative solutions like this are being pushed to mitigate this drawback. We want to harness the potential of HE for practical use, especially in machine learning applications, by exploring hardware acceleration and optimizing encryption techniques to address the computational challenges inherent in HE.
+
+![image](https://github.com/Vidacelinda/Homorphoic-Encrption/assets/87499194/0e1286f1-0525-4db3-bdfe-7a71988288ea)
